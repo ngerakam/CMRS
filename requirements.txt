@@ -16,7 +16,6 @@ Requirements:
 		SQLite3
 
 
-	Resources:
-		Books
-		Tutorials
-		Documentation
+	Access:
+		Username: admin
+		Password: admin (No Caps)
