@@ -1,0 +1,22 @@
+Requirements:
+	Python 3:
+		PyQt5
+		PyQt5-tools
+		Django
+		Pillow
+		Virtual-env
+		
+
+	Texteditor:
+		sublimetext
+		visual studio code
+		
+
+	DBMS:
+		SQLite3
+
+
+	Resources:
+		Books
+		Tutorials
+		Documentation
