@@ -2,9 +2,7 @@ Requirements:
 	Python 3:
 		PyQt5
 		PyQt5-tools
-		Django
-		Pillow
-		Virtual-env
+		
 		
 
 	Texteditor:
